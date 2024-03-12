@@ -34,7 +34,7 @@ TG_USER_ID = os.getenv('TG_USER_ID')
 TG_API_HOST = "https://api.telegram.org"
 
 # 代理设置（如果需要）
-PROXIES = {"http": "http://127.0.0.1:10808", "https": "http://127.0.0.1:10808"}
+## PROXIES = {"http": "http://127.0.0.1:10808", "https": "http://127.0.0.1:10808"}
 
 # 最大登录重试次数
 LOGIN_MAX_RETRY_COUNT = 5
