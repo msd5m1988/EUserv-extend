@@ -1,4 +1,4 @@
-# EUserv_extend
+# EUserv-extend
 EUserv extend script.
 Use GitHub Actions to extend euserv.
 # Link
